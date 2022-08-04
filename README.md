@@ -1,6 +1,7 @@
 # yamdb_final
 ![yamdb_final workflow](https://github.com/Amica24/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+Проект развернут по адресу http://51.250.21.244/redoc/
 ## Описание
 Для приложения api_yamdb настроены Continuous Integration и Continuous Deployment:
 
